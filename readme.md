@@ -4,7 +4,7 @@ This is the Express backend for Jobly, version 2.
 
 To run this:
 
-    node server.js
+    nodemon server.js
     
 To run the tests:
 
